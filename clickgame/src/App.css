@@ -1,5 +1,6 @@
 body{
     background-color: #282b31;
+    overflow-x: hidden;
 }
 h1{
     position: block;
