@@ -60,6 +60,7 @@ export function Button(el) {
         }
       }
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [counter2]);
   var classes = `button ${el.el}`;
   const congratsInner = (
