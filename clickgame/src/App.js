@@ -77,7 +77,7 @@ function App() {
 
   return (
     <div className="App">
-      <a href='https://github.com/Melih00/ClickGame/tree/main/clickgame' target='_blank'><img title='GITHUB' src='git.png' id='gitimg'/></a>
+      <a href='https://github.com/Melih00/ClickGame/tree/main/clickgame' rel="noreferrer" target='_blank'><img title='GITHUB' alt='github image' src='git.png' id='gitimg'/></a>
       <h1>Click Game'e Hoş Geldin!</h1>
       <div className="zorlukSec">
         <h2
